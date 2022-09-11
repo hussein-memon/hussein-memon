@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hussein-memon
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning python and its libraries.
+- 👀 Very Much interested in Data Science
+- 🌱 currently learning python and the realm of Data-science.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me husseinmemon11@gmail.com
 
